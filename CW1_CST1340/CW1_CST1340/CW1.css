@@ -1,0 +1,448 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: radial-gradient(circle at center, #0f172a, #000000);
+}
+
+.background {
+  padding-bottom: 20px;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.logo-img {
+  width: 290px;
+}
+
+.p2 {
+  color: #93c5fd;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Exo 2', sans-serif;
+  margin-bottom: 20px;
+}
+
+.heading1 {
+  color: #22c55e;
+  text-align: center;
+  font-size: 28px;
+  text-shadow: 0 0 10px #3b82f6;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 20px;
+}
+
+.logo-container {
+  width: 90%;
+  margin: 20px auto;
+  padding: 30px;
+  background: #000000;
+  border-radius: 45px;
+  border: 1px solid rgba(5, 99, 249, 0.786);
+}
+
+.logo-row {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.logo-left {
+  margin-right: auto;
+}
+
+.logo-center {
+  margin: 0 auto;
+}
+
+.logo-right {
+  margin-left: auto;
+}
+
+.ln1 {
+  color: #ffffff;
+  font-size: 22px;
+}
+
+.heading2 {
+  color: #60a5fa;
+  letter-spacing: 2px;
+  text-shadow:
+    0 0 5px #3b82f6,
+    0 0 10px #3b82f6,
+    0 0 20px #1d4ed8;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 15px;
+}
+
+.teamMembers {
+  width: 90%;
+  margin: 5px auto 10px;
+  padding: 20px 25px 10px;
+  background: #000000;
+  border-radius: 48px;
+  border: 1px solid rgba(5, 99, 249, 0.786);
+}
+
+.slogan {
+  letter-spacing: 2px;
+  color: #e5e7eb;
+  text-shadow:
+    0 0 10px #60a5fa,
+    0 0 20px #3b82f6;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 48px;
+}
+
+.schedule {
+  color: #60a5fa;
+  letter-spacing: 2px;
+  text-shadow:
+    0 0 5px #3b82f6,
+    0 0 10px #3b82f6,
+    0 0 20px #1d4ed8;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.timetable {
+  width: 90%;
+  margin: 20px auto;
+}
+
+.opening-table {
+  width: 100%;
+  border-collapse: collapse;
+  color: #e0f2ff;
+  font-size:16px;
+  color: #7dd3fc;   
+  font-size: 20px;
+  padding: 22px;
+}
+
+.tableheader {
+ color: #38bdf8;
+    font-size: 20px;
+  letter-spacing: 2px;
+ 
+  font-family: 'Orbitron', sans-serif;
+    border:1px solid rgba(5, 99, 249, 0.786);
+
+  padding: 18px;
+  text-align: center;
+}
+.tableContainer{
+    width:90%;
+    margin:20px auto;
+    padding:36px;
+    background: linear-gradient(
+  to bottom,
+  rgba(15, 23, 42, 0.95),
+  rgba(2, 6, 23, 0.95)
+);
+    border-radius:45px;
+    border:1px solid rgba(5, 99, 249, 0.786)
+}
+.time td {
+color: #e0f2ff;
+letter-spacing: 2px;
+  font-family: 'Orbitron', sans-serif;
+  border: 1px solid #0501f1;
+  padding: 12px;
+  text-align: center;
+  font-size: 18px;
+}
+
+ .home-page{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+ }
+ .Genos3{
+    width: 125px;
+ }
+ .navbar1{
+    display:flex;
+    align-items: center;
+    padding:20px;
+    justify-content: space-between;
+ }
+ nav{
+    flex:1;
+    text-align:center;
+ }
+ nav ul{
+    display:inline-block;
+    list-style-type: none;
+    gap: 40px;
+ }
+  nav ul li{
+    display:inline-block;
+    margin-right: 20px;
+      font-family: 'Orbitron', sans-serif;
+
+    
+ }
+ .pages{
+    text-decoration:overline;
+    color: #38bdf8;
+    letter-spacing: 2px;
+  text-shadow:
+    0 0 5px #3b82f6,
+    0 0 10px #3b82f6,
+    0 0 20px #1d4ed8;
+ 
+
+ }
+ .container{
+    max-width:1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding:25px;
+ }
+ .slogan2{
+  letter-spacing: 2px;
+  color: #e5e7eb;
+  text-shadow:
+    0 0 10px #60a5fa,
+    0 0 20px #3b82f6;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 15px;
+  font-size: 28px;
+ }
+.p1 {
+      color: #05eeb8;
+  font-size: 22px;
+  font-family: 'Exo 2', sans-serif;
+  margin-bottom: 20px;
+    text-shadow:
+    0 0 5px #3b82f6,
+    0 0 10px #3b82f6,
+    0 0 20px #1d4ed8;
+
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2{
+    flex-basis:50%;
+    min-width: 195px;
+}
+.col-2 img {
+  width: 90%;
+  height: auto;
+  padding: 50px 0;
+  border-radius: 20px;
+  object-fit: contain;
+  box-shadow: 0 0 40px rgba(3, 95, 244, 0.982);
+
+}
+
+.btn{
+    border:1px solid rgba(3, 95, 244, 0.982);
+      font-family: 'Orbitron', sans-serif;
+      text-decoration: none;
+    display: inline-block;
+    background: linear-gradient(90deg, #22c55e, #3b82f6);
+     color:#ffffff;
+     padding: 8px 30px;
+     margin:30px 0;
+     border-radius: 30px;
+     box-shadow:
+    0 0 10px rgba(37, 99, 235, 0.5),
+    0 0 20px rgba(34, 197, 94, 0.3);
+}
+
+nav a:hover {
+    box-shadow: 0 0 20px #00f7ff,
+              0 0 40px #00f7ff;
+}
+
+.btn:hover {
+  box-shadow: 0 0 45px #ff01e6;
+}
+
+.navbarContainer{
+width:90%;
+    margin:12px auto;
+    padding:7px;
+    background: linear-gradient(
+  to bottom,
+  rgba(15, 23, 42, 0.95),
+  rgba(2, 6, 23, 0.95)
+);
+    border-radius:45px;
+    border:1px solid rgba(16, 2, 163, 0.786);
+}
+
+.contentContainer{
+  
+width:90%;
+    margin:12px auto;
+    padding:9px;
+    background: linear-gradient(
+  to bottom,
+  rgba(15, 23, 42, 0.95),
+  rgba(2, 6, 23, 0.95)
+);
+    border-radius:45px;
+    border:1px solid rgba(7, 2, 62, 0.786)
+}
+
+.container2{
+    max-width:1100px;
+    margin: auto;
+    padding-left: 10px;
+    padding:10px;
+ }
+ .Genre {
+     font-family: 'Orbitron', sans-serif;
+     text-align:center;
+    color: #970446;
+    text-shadow:
+     0 0 6px #fa00e5;
+     font-size:32px;
+ }
+     
+  
+    .genre {
+  width: 90%;
+  margin: 20px auto;
+  padding: 30px;
+  background: #000000;
+  border-radius: 45px;
+  border: 1px solid rgba(5, 99, 249, 0.786);
+}
+
+.genre li::before{
+  content: "\f001";
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  margin-right: 10px;
+  list-style-type: none;
+}
+
+.afro {
+  color: #00f7ff;
+  text-shadow: 0 0 8px #00f7ff;
+}
+.afroSongs {
+  color: #e0f2ff;
+}
+
+.Rap {
+  color: #22c55e;
+  text-shadow: 0 0 8px #22c55e;
+}
+.RapSongs {
+  color: #bbf7d0;
+}
+
+.pop {
+  color: #ff4d9d;
+  text-shadow: 0 0 8px #ff4d9d;
+}
+.popSongs {
+  color: #fbcfe8;
+}
+
+.RB {
+  color: #a855f7;
+  text-shadow: 0 0 8px #a855f7;
+}
+.RBSongs {
+  color: #ddd6fe;
+}
+
+.Amapiano {
+  color: #facc15;
+  text-shadow: 0 0 8px #facc15;
+}
+.AmapianoSongs {
+  color: #fef9c3;
+}
+ul {
+  list-style: none;
+  padding-left: 0; 
+  margin-left: 0;
+}
+li{
+    margin: 8px 0;
+}
+.genre ul li {
+  font-size: 20px;
+}
+.contact{
+    width:90%;
+    padding:25px;
+    margin: 36px auto;
+    background: #0f172a;
+    border-radius: 45px;
+    border: 1px solid rgba(16, 2, 163, 0.786)
+}
+.contactUs{
+    color:#6c15e5;
+    font-family: "Font Awesome 6 Free";
+    text-shadow:0 0 8px #1d4ed8;
+    letter-spacing: 2px;
+    font-size: 22px;
+
+
+
+}
+.ContactParagraph{
+    color: #ffffff;
+    font-family: "Font Awesome 6 Free";
+    letter-spacing: 2px;
+}
+.Email{
+    color: #ffffff;
+    font-family: "Font Awesome 6 Free";
+    letter-spacing: 2px;
+}
+.number{
+        color: #ffffff;
+        font-family: "Font Awesome 6 Free";
+    letter-spacing: 2px;
+
+}
+.address{
+       color: #ffffff;
+        font-family: "Font Awesome 6 Free";
+    letter-spacing: 2px;
+}
+.socials{
+       color: #ffffff;
+        font-family: "Font Awesome 6 Free";
+    letter-spacing: 2px;
+}
+
+.genre ol > li {
+  margin-bottom: 25px;
+}
+
+.afro,
+.Rap,
+.pop,
+.RB,
+.Amapiano {
+  font-size: 24px;   
+  font-weight: bold;
+  letter-spacing: 1px;
+}
