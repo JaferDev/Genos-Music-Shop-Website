@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-stylesheet href="Artists.xsl" type="text/xsl" ?>
 <!DOCTYPE Artists
 [
 	<!ELEMENT Artists (Artist+)>
@@ -42,12 +42,73 @@
 	</Artist>
 	
 	<Artist>
-		<name>Bruno Mars</name>
-		<desc>American singer-songwriter, producer, and dancer from Honolulu, Hawaii</desc>
-		<awards>16 Grammry Awards</awards>
-		<awards>10 Guinness World Records</awards>
-		<popularAlbum>24K Magic</popularAlbum>
-		<popularAlbum>An Evening with Silk Sonic</popularAlbum>
+		<name>Dua Lipa</name>
+		<desc>English singer and songwriter</desc>
+		<awards>3 Grammy Awards</awards>
+		<awards>7 Brit Awards</awards>
+		<popularAlbum>Future Nostalgia</popularAlbum>
+	</Artist>
+
+	<Artist>
+		<name>Rema</name>
+		<desc>Nigerian singer-songwriter and rapper</desc>
+		<awards>6 AFRIMMA Awards</awards>
+		<awards>6 The Headies Awards</awards>
+		<popularAlbum>Raves and Roses</popularAlbum>
+	</Artist>
+
+	<Artist>
+		<name>Selena Gomez</name>
+		<desc>American actress, singer-songwriter, businesswoman, and producer</desc>
+		<awards>1 American Music Award</awards>
+		<awards>1 Billboard Music Award</awards>
+		<popularAlbum>Revival</popularAlbum>
+	</Artist>
+
+	<Artist>
+		<name>Fireboy DML</name>
+		<desc>Nigerian singer-songwriter</desc>
+		<awards>6 The Headies Awards</awards>
+		<popularAlbum>Playboy</popularAlbum>
+	</Artist>
+
+	<Artist>
+		<name>Ed Sheeran</name>
+		<desc>English singer-songwriter and musician</desc>
+		<awards>4 Grammy Awards</awards>
+		<popularAlbum>÷</popularAlbum>
+		<popularAlbum>x</popularAlbum>
+	</Artist>
+
+	<Artist>
+		<name>Victony</name>
+		<desc>Nigerian singer-songwriter and rapper</desc>
+		<awards>1 The Headies Awards</awards>
+		<popularAlbum>Stubborn</popularAlbum>
+		<popularAlbum>x</popularAlbum>
+	</Artist>
+
+	<Artist>
+		<name>The Weeknd</name>
+		<desc>Canadian singer-songwriter and record producer</desc>
+		<awards>4 Grammy Awards</awards>
+		<popularAlbum>After Hours</popularAlbum>
+		<popularAlbum>Starboy</popularAlbum>
+	</Artist>
+
+	<Artist>
+		<name>Travis Scott</name>
+		<desc>American rapper, singer-songwriter, and producer</desc>
+		<awards>10 Grammy Award Nominations</awards>
+		<popularAlbum>Astroworld</popularAlbum>
+		<popularAlbum>Rodeo</popularAlbum>
 	</Artist>
 	
+	<Artist>
+		<name>Tyla</name>
+		<desc>South-African singer-songwriter</desc>
+		<awards>1 Grammy Award</awards>
+		<popularAlbum>Tyla</popularAlbum>
+	</Artist>
+
 </Artists>
