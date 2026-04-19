@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="songs.xsl"?>
+<MusicLibrary>
+    <GenreCategory name="Afrobeats">
+        <Song>
+            <title>Calm down</title>
+            <artistName>REMA ft. Selena Gomez</artistName>
+            <genre>Afrobeats</genre>
+            <image>Rema.jpg</image>
+        </Song>
+        <Song>
+            <title>Peru</title>
+            <artistName>Fireboy DML ft. Ed Sheeran</artistName>
+            <genre>Afrobeats</genre>
+            <image>FireboyDML.jpeg</image>
+        </Song>
+        <Song>
+            <title>Soweto</title>
+            <artistName>Victony ft. Tempoe</artistName>
+            <genre>Afrobeats</genre>
+            <image>Victony.jpg</image>
+        </Song>
+    </GenreCategory>
+
+    <GenreCategory name="Rap">
+        <Song>
+            <title>Not like us</title>
+            <artistName>Kendrick Lamar</artistName>
+            <genre>Rap</genre>
+            <image>KendrickLamar.jpg</image>
+        </Song>
+        <Song>
+            <title>Sicko mode</title>
+            <artistName>Travis Scott</artistName>
+            <genre>Rap</genre>
+            <image>TravisScott.webp</image>
+        </Song>
+        <Song>
+            <title>First Person Shooter</title>
+            <artistName>Drake ft. J. Cole</artistName>
+            <genre>Rap</genre>
+            <image>drake.jpg</image>
+        </Song>
+        <Song>
+            <title>Lucid dreams</title>
+            <artistName>Juice World</artistName>
+            <genre>Rap</genre>
+            <image>travis.jpg</image> </Song>
+    </GenreCategory>
+
+    <GenreCategory name="Pop">
+        <Song>
+            <title>Billie Jean</title>
+            <artistName>Michael Jackson</artistName>
+            <genre>Pop</genre>
+            <image>MichaelJackson.jpg</image>
+        </Song>
+        <Song>
+            <title>Levitating</title>
+            <artistName>Dua Lipa</artistName>
+            <genre>Pop</genre>
+            <image>DuaLipa.jpeg</image>
+        </Song>
+        <Song>
+            <title>Blinding Lights</title>
+            <artistName>The Weeknd</artistName>
+            <genre>Pop</genre>
+            <image>TheWeeknd.jpg</image>
+        </Song>
+    </GenreCategory>
+
+    <GenreCategory name="R&B">
+        <Song>
+            <title>24K</title>
+            <artistName>Bruno Mars</artistName>
+            <genre>R&B</genre>
+            <image>BrunoMars.jpg</image>
+        </Song>
+        <Song>
+            <title>Water</title>
+            <artistName>Tyla</artistName>
+            <genre>Amapiano</genre>
+            <image>Tyla.jpeg</image>
+        </Song>
+    </GenreCategory>
+</MusicLibrary>
