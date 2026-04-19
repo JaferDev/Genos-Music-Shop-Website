@@ -45,7 +45,8 @@
             <title>Lucid dreams</title>
             <artistName>Juice World</artistName>
             <genre>Rap</genre>
-            <image>travis.jpg</image> </Song>
+            <image>travis.jpg</image>
+        </Song>
     </GenreCategory>
 
     <GenreCategory name="Pop">
@@ -69,11 +70,11 @@
         </Song>
     </GenreCategory>
 
-    <GenreCategory name="R&B">
+    <GenreCategory name="R&amp;B">
         <Song>
             <title>24K</title>
             <artistName>Bruno Mars</artistName>
-            <genre>R&B</genre>
+            <genre>R&amp;B</genre>
             <image>BrunoMars.jpg</image>
         </Song>
         <Song>
