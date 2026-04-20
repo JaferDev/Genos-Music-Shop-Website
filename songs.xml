@@ -80,11 +80,11 @@
         </Song>
     </GenreCategory>
 
-    <GenreCategory name="R&B">
+    <GenreCategory name="R&amp;B">
         <Song>
             <title>24K Magic</title>
             <artistName>Bruno Mars</artistName>
-            <genre>R&B</genre>
+            <genre>R&amp;B</genre>
             <image>BrunoMars.jpg</image>
             <coverArt>24k_magic_album.jpg</coverArt>
         </Song>
