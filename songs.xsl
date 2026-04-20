@@ -47,7 +47,7 @@
                 <p class="artists-subtitle">Explore your favorite tracks by genre</p>
 
                 <div class="artists-container">
-                    <xsl:for-each select="GenreCategory/Song">
+                    <xsl:for-each select="//Song">
                         <div class="artist-box">
                             <div class="cover-container">
                                 <img src="{coverArt}" class="cover-art-img" alt="Album Cover" />
