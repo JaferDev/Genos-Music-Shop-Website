@@ -47,6 +47,12 @@
             <genre>Rap</genre>
             <image>travis.jpg</image>
         </Song>
+        <Song>
+            <title>All girls are the same</title>
+            <artistName>Juice World</artistName>
+            <genre>Rap</genre>
+            <image>travis.jpg</image>
+        </Song>
     </GenreCategory>
 
     <GenreCategory name="Pop">
@@ -57,10 +63,22 @@
             <image>MichaelJackson.jpg</image>
         </Song>
         <Song>
+            <title>Thriller</title>
+            <artistName>Michael Jackson</artistName>
+            <genre>Pop</genre>
+            <image>MichaelJackson.jpg</image>
+        </Song>
+        <Song>
             <title>Levitating</title>
             <artistName>Dua Lipa</artistName>
             <genre>Pop</genre>
             <image>DuaLipa.jpeg</image>
+        </Song>
+        <Song>
+            <title>Beat it</title>
+            <artistName>Michael Jackson</artistName>
+            <genre>Pop</genre>
+            <image>MichaelJackson.jpg</image>
         </Song>
         <Song>
             <title>Blinding Lights</title>
@@ -77,6 +95,30 @@
             <genre>R&amp;B</genre>
             <image>BrunoMars.jpg</image>
         </Song>
+        <Song>
+            <title>Skywalker</title>
+            <artistName>Miguel ft Travis Scott</artistName>
+            <genre>R&amp;B</genre>
+            <image>TravisScott.webp</image>
+        </Song>
+        <Song>
+            <title>Free-Mind</title>
+            <artistName>Tems</artistName>
+            <genre>R&amp;B</genre>
+            <image>FireboyDML.jpeg</image> </Song>
+        <Song>
+            <title>Location</title>
+            <artistName>Khalid</artistName>
+            <genre>R&amp;B</genre>
+            <image>BrunoMars.jpg</image> </Song>
+    </GenreCategory>
+
+    <GenreCategory name="Amapiano">
+        <Song>
+            <title>Jerusalema</title>
+            <artistName>Master KG ft. Nomcebo Zikode</artistName>
+            <genre>Amapiano</genre>
+            <image>Tyla.jpeg</image> </Song>
         <Song>
             <title>Water</title>
             <artistName>Tyla</artistName>
