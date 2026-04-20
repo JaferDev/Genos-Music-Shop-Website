@@ -48,7 +48,13 @@
         <div class="artists-container">
           <xsl:for-each select="GenreCategory/Song">
             <div class="artist-box">
-              <img src="{image}" class="artist-img" alt="Cover Art"></img>
+              <div class="cover-container">
+                <img src="{coverArt}" class="cover-art-img" alt="Album Cover"></img>
+              </div>
+              
+              <div class="artist-profile">
+                <img src="{image}" class="artist-img" alt="Artist Photo"></img>
+              </div>
               
               <h2 class="artist-name"><xsl:value-of select="title" /></h2>
               <p class="artist-bio"><i>By <xsl:value-of select="artistName" /></i></p>
