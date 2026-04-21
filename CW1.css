@@ -22,10 +22,9 @@ h1, h2, h3, p {
   align-items: center;
   padding: 10px 20px;
 }
-
-/*logos within the .header container are resized to be small icons*/
+/*logos within the .header container are 290px*/
 .logo-img {
-  width: 100px;
+  width: 290px;
 }
 /*class called p2 to style main paragraph*/
 .p2 {
@@ -84,7 +83,7 @@ text-shadow:
  padding: 20px; 
   list-style-position: inside;
 }
-/*applying styles to the second heading and using an imoorted font*/
+/*applying styles to the second heading and using an imported font*/
 .heading2 {
   color: #60a5fa;
   letter-spacing: 2px;
