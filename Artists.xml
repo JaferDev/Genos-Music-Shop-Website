@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="Artists.xsl" type="text/xsl" ?>
-<!DOCTYPE Artists
-[
-	<!ELEMENT Artists (Artist+)>
-	<!ELEMENT Artist (name, desc, awards, popularAlbums, src)>
-	<!ELEMENT name (#PCDATA)>
-	<!ELEMENT desc (#PCDATA)>
-	<!ELEMENT awards (#PCDATA)>
-	<!ELEMENT popularAlbums (#PCDATA)>	
-	<!ELEMENT src (#PCDATA)>
-]>
+<!DOCTYPE Artists SYSTEM "Artists.dtd">
 <!--CREDIT: Written by https://www.github.com/JaferDev-->
 <!--XML Document for storing all information on artists
 	STEPS TO ADD A NEW ARTIST:

@@ -1,0 +1,7 @@
+<!ELEMENT Artists (Artist+)>
+<!ELEMENT Artist (name, desc, awards, popularAlbums, src)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+<!ELEMENT awards (#PCDATA)>
+<!ELEMENT popularAlbums (#PCDATA)>	
+<!ELEMENT src (#PCDATA)>
